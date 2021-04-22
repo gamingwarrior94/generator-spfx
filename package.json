@@ -75,7 +75,7 @@
         "@microsoft/generator-sharepoint": "1.10.0",
         "@pnp/office365-cli": "^2.5.0",
         "applicationinsights": "^1.6.0",
-        "chalk": "^3.0.0",
+        "chalk": "^4.1.1",
         "command-exists": "^1.2.8",
         "global": "^4.4.0",
         "lodash": "^4.17.15",
